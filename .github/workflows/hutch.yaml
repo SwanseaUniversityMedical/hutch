@@ -52,3 +52,4 @@ jobs:
       notation-key: ${{ secrets.NOTATION_KEY }}
       registry-token: ${{ secrets.HARBOR_TOKEN }}
 
+
