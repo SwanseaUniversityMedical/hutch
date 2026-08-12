@@ -41,7 +41,7 @@ bunny:
       # The basic auth password to connect to the Task API
       password: "password"
       # The name of an existing secret to load the credentials from.
-      existingSecretName: ""
+      existingSecretName: "tesk-creds"
       # The key in the existing secret for the username
       existingSecretUsernameKey: "username"
       # The key in the existing secret for the password
